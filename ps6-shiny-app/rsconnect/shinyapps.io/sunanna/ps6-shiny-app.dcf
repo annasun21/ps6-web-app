@@ -1,0 +1,13 @@
+name: ps6-shiny-app
+title: ps6-shiny-app
+username:
+account: sunanna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8454752
+bundleId: 6906008
+url: https://sunanna.shinyapps.io/ps6-shiny-app/
+when: 1677743984.22463
+lastSyncTime: 1677743984.22465
+asMultiple: FALSE
+asStatic: FALSE
